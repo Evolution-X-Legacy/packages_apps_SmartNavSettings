@@ -22,12 +22,26 @@
         android:key="navbar_visibility"
         android:title="@string/navbar_visibility" />
 
+    <com.android.settings.custom.preference.SystemSettingSwitchPreference
+        android:key="navbar_inverse"
+        android:title="@string/nav_bar_layout_inverse_title"
+        android:summary="@string/nav_bar_layout_inverse_summary"
+        android:dependency="navbar_visibility"
+        android:defaultValue="false" />
+
     <com.evolution.settings.preferences.SystemSettingSwitchPreference
         android:key="pixel_nav_animation"
         android:title="@string/pixel_navbar_anim_title"
         android:summary="@string/pixel_navbar_anim_summary"
         android:dependency="navbar_visibility"
         android:defaultValue="true" />
+
+    <com.evolution.settings.preferences.SystemSettingSwitchPreference
+        android:key="one_hand_mode_enabled"
+        android:title="@string/one_hand_mode_title"
+        android:summary="@string/one_hand_mode_summary"
+        android:dependency="navbar_visibility"
+        android:defaultValue="false" />
 
     <PreferenceCategory
         android:key="category_gesture_interface"
@@ -87,7 +101,7 @@
             android:summary="@string/navbar_tuner_summary">
             <intent android:action="android.intent.action.MAIN"
                     android:targetPackage="com.android.systemui"
-                    android:targetClass="com.android.systemui.tuner.NavBarTunerActivity" />
+                    android:targetClass="com.android.systemui.tuner.NavBarActivity" />
         </Preference>
     </PreferenceCategory>
 
@@ -99,21 +113,21 @@
                 android:key="navbar_height_portrait"
                 android:title="@string/portrait_title"
                 android:max="135"
-                settings:min="65"
+                settings:min="0"
                 settings:units="%" />
 
            <com.evolution.settings.preferences.CustomSeekBarPreference
                 android:key="navbar_height_landscape"
                 android:title="@string/land_hor_title"
                 android:max="135"
-                settings:min="65"
+                settings:min="0"
                 settings:units="%" />
 
            <com.evolution.settings.preferences.CustomSeekBarPreference
                 android:key="navbar_width"
                 android:title="@string/land_vert_title"
                 android:max="135"
-                settings:min="65"
+                settings:min="0"
                 settings:units="%" />
         <PreferenceScreen
             android:key="pulse_settings"
