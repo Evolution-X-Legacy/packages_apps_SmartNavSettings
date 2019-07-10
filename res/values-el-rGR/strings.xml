@@ -183,8 +183,8 @@
     <string name="smartbar_button_animation_flip">Αναποδογύρισμα</string>
     <string name="smartbar_button_animation_pixel">Pixel (όλα τα πλήκτρα)</string>
     <string name="smartbar_button_animation_pixel_home">Pixel (Κουμπί αρχικής οθόνης)</string>
-    <string name="smartbar_button_animation_pixel_home_ripple">Pixel (Home button only) and Ripple</string>
-    <string name="smartbar_factory_reset_title">Reset to stock</string>
+    <string name="smartbar_button_animation_pixel_home_ripple">Pixel (Κουμπί αρχικής οθόνης) και Κυματισμός</string>
+    <string name="smartbar_factory_reset_title">Επαναφορά στο αρχικό</string>
     <string name="smartbar_factory_reset_confirm">Είστε βέβαιοι ότι θέλετε να επαναφέρετε την έξυπνη μπάρα στις αρχικές ρυθμίσεις;</string>
     <string name="smartbar_ime_action_title">Μέθοδος εισαγωγής και ενέργειες πολυμέσων</string>
     <string name="smartbar_ime_action_summary">Ορίστε ποια πλήκτρα θα φαίνονται όταν είναι ενεργό το πληκτρολόγιο οθόνης ή γίνεται αναπαραγωγή μουσικής</string>
