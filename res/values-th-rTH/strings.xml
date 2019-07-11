@@ -182,7 +182,7 @@
     <string name="smartbar_button_animation_flip">ดีด</string>
     <string name="smartbar_button_animation_pixel">Pixel (ปุ่มทั้งหมด)</string>
     <string name="smartbar_button_animation_pixel_home">Pixel (ปุ่มหน้าแรกเท่านั้น)</string>
-    <string name="smartbar_button_animation_pixel_home_ripple">Pixel (ปุ่มหน้าแรกเท่านั้น) และ ระลอก</string>
+    <string name="smartbar_button_animation_pixel_home_ripple">Pixel (ปุ่มหน้าแรกเท่านั้น) และ การกระเพื่อม</string>
     <string name="smartbar_factory_reset_title">รีเซ็ทกลับแบบเดิม</string>
     <string name="smartbar_factory_reset_confirm">คุณแน่ใจหรือไม่ว่าต้องการรีเซ็ต สมาร์ทบาร์ เป็นการตั้งค่าแบบเดิม</string>
     <string name="smartbar_ime_action_title">วิธีการป้อนข้อมูลและการกระทำของสื่อ</string>
