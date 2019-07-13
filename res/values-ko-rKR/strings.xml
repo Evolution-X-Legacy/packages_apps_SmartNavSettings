@@ -16,15 +16,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- SmartNav -->
-    <string name="bottom_nav_navigation_title">Navigation</string>
+    <string name="bottom_nav_navigation_title">소프트키</string>
     <string name="navbar_interface_title">Interface</string>
-    <string name="navbar_size">Bar size</string>
-    <string name="navbar_mode">Navigation mode</string>
+    <string name="navbar_size">소프트키 높이 사이즈</string>
+    <string name="navbar_mode">소프트키 모드</string>
     <string name="navbar_mode_summary">Select which navigation mode to use on your device</string>
-    <string name="navbar_visibility">Allow navigation bar</string>
-    <string name="navigationbar_settings_summary">Customize navigation style and behavior</string>
-    <string name="navbar_general_title">Advanced</string>
-    <string name="navigation_bar_left_title">Left-handed mode</string>
+    <string name="navbar_visibility">소프트키 허용</string>
+    <string name="navigationbar_settings_summary">소프트키 스타일 및 동작 설정</string>
+    <string name="navbar_general_title">고급 설정</string>
+    <string name="navigation_bar_left_title">한 손 조작 모드</string>
     <string name="navigation_bar_left_summary">Place the navigation bar on the left side of the screen in landscape mode</string>
     <string name="smartbar_interface">SmartBar</string>
     <string name="icon_pack_picker_dialog_title">Icon packs</string>
