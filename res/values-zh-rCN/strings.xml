@@ -16,7 +16,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- SmartNav -->
-    <string name="bottom_nav_navigation_title">导航</string>
+    <string name="bottom_nav_navigation_title">导航栏</string>
     <string name="navbar_interface_title">界面</string>
     <string name="navbar_size">栏大小</string>
     <string name="navbar_mode">导航栏样式</string>
@@ -61,7 +61,7 @@
     <string name="fling_single_tap">右侧单击</string>
     <string name="fling_double_tap">右侧双击</string>
     <string name="fling_long_press">右侧长按</string>
-    <string name="fling_single_left_tap">单击左侧</string>
+    <string name="fling_single_left_tap">左侧单击</string>
     <string name="fling_double_left_tap">左侧双击</string>
     <string name="fling_long_left_press">左侧长按</string>
     <string name="long_swipe_portrait_title">纵向</string>
@@ -115,7 +115,7 @@
     <string name="pulse_help_policy_notice_summary">当扬声器正在播放音频时，某些音频脉冲将不能正常工作</string>
     <string name="pulse_settings">脉冲</string>
     <string name="pulse_settings_summary">导航栏音乐可视化效果</string>
-    <string name="fling_show_pulse_title">显示 脉冲</string>
+    <string name="fling_show_pulse_title">显示脉冲</string>
     <string name="fling_show_pulse_summary">导航栏上的音频可视化效果</string>
     <string name="pulse_render_mode_title">渲染模式</string>
     <string name="pulse_render_mode_fading_bars">渐变块</string>
