@@ -18,7 +18,7 @@
     <!-- SmartNav -->
     <string name="bottom_nav_navigation_title">导航栏</string>
     <string name="navbar_interface_title">界面</string>
-    <string name="navbar_size">栏大小</string>
+    <string name="navbar_size">导航栏尺寸</string>
     <string name="navbar_mode">导航栏样式</string>
     <string name="navbar_mode_summary">选择要在设备上使用的导航栏样式</string>
     <string name="navbar_visibility">启用导航栏</string>
@@ -112,18 +112,18 @@
     <string name="fling_config_backup_error_toast">保存 Fling 配置文件时出错</string>
     <string name="fling_config_restore_error_toast">恢复 Fling 配置文件时出错</string>
     <!-- Pulse navigation bar music visualizer -->
-    <string name="pulse_help_policy_notice_summary">当扬声器正在播放音频时，某些音频脉冲将不能正常工作</string>
-    <string name="pulse_settings">脉冲</string>
+    <string name="pulse_help_policy_notice_summary">当扬声器正在播放音频时，某些音乐可视化效果将不能正常工作</string>
+    <string name="pulse_settings">音乐可视化效果</string>
     <string name="pulse_settings_summary">导航栏音乐可视化效果</string>
-    <string name="fling_show_pulse_title">显示脉冲</string>
+    <string name="fling_show_pulse_title">显示音乐可视化效果</string>
     <string name="fling_show_pulse_summary">导航栏上的音频可视化效果</string>
     <string name="pulse_render_mode_title">渲染模式</string>
     <string name="pulse_render_mode_fading_bars">渐变块</string>
     <string name="pulse_render_mode_solid_lines">实线</string>
-    <string name="fling_pulse_color">频谱颜色</string>
+    <string name="fling_pulse_color">音乐可视化效果颜色</string>
     <string name="fling_pulse_color_summary">也用作自动颜色的后备</string>
     <string name="eos_fling_lavalamp_title">开启呼吸灯</string>
-    <string name="eos_fling_lavalamp_summary">频谱样式以平滑的呼吸灯风格颜色混合</string>
+    <string name="eos_fling_lavalamp_summary">混合色音乐可视化效果样式</string>
     <string name="pulse_advanced_category">高级选项</string>
     <string name="pulse_legacy_mode_advanced_category">渐变块模式设置</string>
     <string name="pulse_custom_fudge_factor">清晰等级</string>
@@ -132,11 +132,11 @@
     <string name="pulse_solid_lines_count">实线数量</string>
     <string name="pulse_solid_units_opacity">实线不透明度</string>
     <string name="pulse_solid_dimen_category">实线模式设置</string>
-    <string name="pulse_custom_buttons_opacity_title">频谱上的智能栏按钮不透明度</string>
-    <string name="pulse_auto_color_title">自动频谱颜色</string>
+    <string name="pulse_custom_buttons_opacity_title">当显示音乐可视化效果时导航栏的不透明度</string>
+    <string name="pulse_auto_color_title">自动音乐可视化效果颜色</string>
     <string name="pulse_auto_color_summary">与专辑封面颜色同步。将会覆盖呼吸灯和线的不透明度。</string>
     <string name="pulse_blacklist_title">应用程序黑名单</string>
-    <string name="pulse_blacklist_summary">跳过脉冲的应用程序</string>
+    <string name="pulse_blacklist_summary">跳过音乐可视化效果的程序</string>
     <string name="pulse_blacklist_apps_cat_title">黑名单</string>
     <string name="pulse_blacklist_apps_title">应用程序黑名单</string>
     <string name="pulse_blacklist_apps_summary">不在面板中显示的应用程序</string>
@@ -145,11 +145,11 @@
     <string name="profile_choose_app">选择应用程序</string>
     <string name="dialog_delete_title">删除</string>
     <string name="dialog_delete_message">删除所选中的项目？</string>
-    <string name="pulse_accent_color_title">对脉冲使用重音颜色</string>
-    <string name="pulse_accent_color_summary">启用此功能将使脉冲使用当前的强调色。将禁用霓虹灯。</string>
+    <string name="pulse_accent_color_title">音乐可视化效果与主题色一致</string>
+    <string name="pulse_accent_color_summary">音乐可视化效果与强调色一致</string>
     <string name="fling_lavalamp_color_from">呼吸灯开始颜色</string>
     <string name="fling_lavalamp_color_to">呼吸灯结束颜色</string>
-    <string name="pulse_colors_reset_title">重置脉冲颜色</string>
+    <string name="pulse_colors_reset_title">重置音乐可视化效果颜色</string>
     <string name="pulse_colors_reset_message">你确定要重置这些颜色为默认值吗？</string>
     <string name="fling_smoothing_enabled_title">开启平滑</string>
     <string name="fling_smoothing_enabled_summary">每个栏的动画更平滑</string>
