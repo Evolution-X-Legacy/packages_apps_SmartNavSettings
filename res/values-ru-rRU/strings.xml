@@ -36,7 +36,7 @@
     <string name="profile_applist_title">Приложения</string>
     <string name="default_string">Стандартный</string>
     <string name="default_settings">Настройки по умолчанию</string>
-    <string name="default_settings_summary">Панель навигации AOSP</string>
+    <string name="default_settings_summary">Стандартная панель навигации AOSP</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
     <string name="choose_action_title">Выбор действия</string>
     <string name="action_entry_default_action">Настройки по умолчанию</string>
@@ -57,7 +57,7 @@
     <string name="fling_long_swipe_right">Длинный свайп вправо</string>
     <string name="fling_long_swipe_left">Длинный свайп влево</string>
     <string name="fling_right_up_swipe">Смахивание вверх справа</string>
-    <string name="fling_left_up_swipe">Левая сторона свайп вверх</string>
+    <string name="fling_left_up_swipe">Смахивание вверх слева</string>
     <string name="fling_single_tap">Одиночное нажатие справа</string>
     <string name="fling_double_tap">Двойное нажатие справа</string>
     <string name="fling_long_press">Долгое нажатие справа</string>
@@ -101,7 +101,7 @@
     <string name="fling_keyboard_cursors_summary">Двойные нажатия слева/справа управляют движениями курсора влево/вправо при открытой клавиатуре</string>
     <string name="fling_logo_opacity_title">Прозрачность логотипа Fling</string>
     <string name="fling_factory_reset_title">Сброс к настройкам по умолчанию</string>
-    <string name="fling_factory_reset_confirm">Вы уверены, что вы хотите сбросить настройки Fling к настройкам по умолчанию?</string>
+    <string name="fling_factory_reset_confirm">Вы уверены, что хотите сбросить настройки Fling к настройкам по умолчанию?</string>
     <string name="fling_backup_current_config_title">Сохранить профиль</string>
     <string name="fling_restore_config_title">Восстановить профиль</string>
     <string name="fling_config_name_edit_dialog_title">Имя профиля Fling</string>
