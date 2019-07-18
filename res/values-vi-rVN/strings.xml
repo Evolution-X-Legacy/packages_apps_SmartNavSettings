@@ -21,7 +21,7 @@
     <string name="navbar_size">Kích thước thanh điều hướng</string>
     <string name="navbar_mode">Chế độ thanh điều hướng</string>
     <string name="navbar_mode_summary">Chọn chế độ điều hướng để sử dụng trên thiết bị của bạn</string>
-    <string name="navbar_visibility">Hiện thanh điều hướng</string>
+    <string name="navbar_visibility">Cho phép thanh điều hướng</string>
     <string name="navigationbar_settings_summary">Tùy chỉnh kiểu điều hướng và hành vi</string>
     <string name="navbar_general_title">Nâng cao</string>
     <string name="navigation_bar_left_title">Chế độ thuận tay trái</string>
@@ -115,7 +115,7 @@
     <string name="pulse_help_policy_notice_summary">Sóng nhạc không hoạt động với một số nguồn âm thanh khi nghe trên loa thiết bị</string>
     <string name="pulse_settings">Sóng nhạc</string>
     <string name="pulse_settings_summary">Sóng nhạc trên thanh điều hướng</string>
-    <string name="fling_show_pulse_title">Hiện sóng nhạc</string>
+    <string name="fling_show_pulse_title">Cho phép sóng nhạc</string>
     <string name="fling_show_pulse_summary">Sóng nhạc trên thanh điều hướng</string>
     <string name="pulse_render_mode_title">Chế độ hiển thị</string>
     <string name="pulse_render_mode_fading_bars">Khối mờ dần</string>
