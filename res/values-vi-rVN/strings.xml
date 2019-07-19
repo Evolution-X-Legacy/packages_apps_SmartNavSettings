@@ -21,7 +21,7 @@
     <string name="navbar_size">Kích thước thanh điều hướng</string>
     <string name="navbar_mode">Chế độ thanh điều hướng</string>
     <string name="navbar_mode_summary">Chọn chế độ điều hướng để sử dụng trên thiết bị của bạn</string>
-    <string name="navbar_visibility">Cho phép thanh điều hướng</string>
+    <string name="navbar_visibility">Hiện thanh điều hướng</string>
     <string name="navigationbar_settings_summary">Tùy chỉnh kiểu điều hướng và hành vi</string>
     <string name="navbar_general_title">Nâng cao</string>
     <string name="navigation_bar_left_title">Chế độ thuận tay trái</string>
@@ -32,9 +32,9 @@
     <string name="invalid_icon_from_uri">Không thể tải hình ảnh từ nội dung của nhà cung cấp</string>
     <string name="picker_activities">Chuỗi Hoạt động</string>
     <string name="select_custom_app_title">Chọn ứng dụng tùy chỉnh</string>
-    <string name="select_custom_activity_title">Chọn hoạt động tùy chỉnh</string>
+    <string name="select_custom_activity_title">Chọn hoạt động</string>
     <string name="profile_applist_title">Ứng dụng</string>
-    <string name="default_string">Gốc</string>
+    <string name="default_string">Kho</string>
     <string name="default_settings">Cài đặt gốc</string>
     <string name="default_settings_summary">Thanh điều hướng AOSP gốc</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
@@ -49,7 +49,7 @@
     <string name="fling_enable_title">Bật Fling</string>
     <string name="fling_back_home_policy">Quay lại và Trang chủ phải được đặt mọi lúc. Để thay đổi nhiệm vụ của Quay lại hoặc Trang chủ, trước tiên hãy thiết lập công việc bạn muốn.\n\nNgoài ra, cài đặt thao tác nhấp đôi sẽ làm chậm trễ nhấp đơn một chút.</string>
     <string name="fling_split_bar_policy">Khi chỉ có một bên hành động phải hoặc trái được ấn định, hành động này áp dụng cho toàn bộ thanh.</string>
-    <string name="fling_def_summary">Không đặt hành động nào</string>
+    <string name="fling_def_summary">Chưa cài đặt</string>
     <string name="fling_swipe_actions">Cử chỉ vuốt</string>
     <string name="fling_tap_actions">Cử chỉ chạm</string>
     <string name="fling_short_swipe_right">Vuốt ngắn bên phải</string>
@@ -115,15 +115,15 @@
     <string name="pulse_help_policy_notice_summary">Sóng nhạc không hoạt động với một số nguồn âm thanh khi nghe trên loa thiết bị</string>
     <string name="pulse_settings">Sóng nhạc</string>
     <string name="pulse_settings_summary">Sóng nhạc trên thanh điều hướng</string>
-    <string name="fling_show_pulse_title">Cho phép sóng nhạc</string>
+    <string name="fling_show_pulse_title">Hiện sóng nhạc</string>
     <string name="fling_show_pulse_summary">Sóng nhạc trên thanh điều hướng</string>
     <string name="pulse_render_mode_title">Chế độ hiển thị</string>
     <string name="pulse_render_mode_fading_bars">Khối mờ dần</string>
     <string name="pulse_render_mode_solid_lines">Vuốt bên trái ở chiều dọc</string>
     <string name="fling_pulse_color">Màu sóng nhạc</string>
-    <string name="fling_pulse_color_summary">Được sử dụng cũng như dự phòng cho màu tự động</string>
+    <string name="fling_pulse_color_summary">Được sử dụng màu tự động</string>
     <string name="eos_fling_lavalamp_title">Bật đèn dung nham</string>
-    <string name="eos_fling_lavalamp_summary">Các hoạt ảnh sóng nhạc pha trộn kiểu màu đèn dung nham sống động</string>
+    <string name="eos_fling_lavalamp_summary">Các hoạt ảnh Pulse pha trộn kiểu màu đèn dung nham sống động</string>
     <string name="pulse_advanced_category">Nâng cao</string>
     <string name="pulse_legacy_mode_advanced_category">Cài đặt chế độ khối mờ dần</string>
     <string name="pulse_custom_fudge_factor">Mức độ mạnh</string>
@@ -166,7 +166,7 @@
     <string name="positive_done">Hoàn tất</string>
     <!-- SmartBar -->
     <string name="smartbar_category">Thanh thông minh</string>
-    <string name="smartbar_settings_title">Cài đặt Thanh thông minh</string>
+    <string name="smartbar_settings_title">Cài đặt Smartbar</string>
     <string name="smartbar_settings_summary">Tùy biến thanh điều hướng hoàn toàn</string>
     <string name="smartbar_editor_title">Bắt đầu chế độ chỉnh sửa</string>
     <string name="smartbar_editor_summary">Mở trình chỉnh sửa nút thanh thông minh</string>
@@ -184,7 +184,7 @@
     <string name="smartbar_button_animation_pixel_home">Pixel (chỉ nút Home)</string>
     <string name="smartbar_button_animation_pixel_home_ripple">Pixel (chỉ nút Home) và Gợn sóng</string>
     <string name="smartbar_factory_reset_title">Thiết lập lại về cài đặt gốc</string>
-    <string name="smartbar_factory_reset_confirm">Bạn có chắc chắn muốn thiết lập lại Thanh thông minh về cài đặt gốc?</string>
+    <string name="smartbar_factory_reset_confirm">Bạn có chắc chắn muốn thiết lập lại Smartbar về cài đặt gốc?</string>
     <string name="smartbar_ime_action_title">Phương thức nhập và các hành động phương tiện</string>
     <string name="smartbar_ime_action_summary">Cài đặt phím nào hiện khi bàn phím trên màn hình đang hiển thị hoặc âm nhạc đang phát</string>
     <string name="smartbar_ime_action_none">Không</string>
@@ -193,15 +193,15 @@
     <string name="smartbar_ime_action_dynamic">Mũi tên nhập liệu/phương tiện</string>
     <string name="smartbar_backup_current_config_title">Lưu cấu hình</string>
     <string name="smartbar_restore_config_title">Khôi phục lại cấu hình</string>
-    <string name="smartbar_config_name_edit_dialog_title">Tên cấu hình Thanh thông minh</string>
+    <string name="smartbar_config_name_edit_dialog_title">Tên cấu hình Smartbar</string>
     <string name="smartbar_config_name_edit_dialog_message">Nhập tên hoặc để trống</string>
-    <string name="smartbar_config_dialog_title">Cấu hình Thanh thông minh</string>
-    <string name="smartbar_config_backup_success_toast">Đã lưu thành công cấu hình Thanh thông minh</string>
-    <string name="smartbar_config_restore_success_toast">Đã khôi phục thành công cấu hình Thanh thông minh</string>
-    <string name="smartbar_config_backup_error_toast">Lỗi lưu cấu hình Thanh thông minh</string>
-    <string name="smartbar_config_restore_error_toast">Lỗi khôi phục cấu hình Thanh thông minh</string>
+    <string name="smartbar_config_dialog_title">Cấu hình Smartbar</string>
+    <string name="smartbar_config_backup_success_toast">Cấu hình Smartbar đã lưu thành công</string>
+    <string name="smartbar_config_restore_success_toast">Cấu hình Smartbar đã khôi phục thành công</string>
+    <string name="smartbar_config_backup_error_toast">Lỗi lưu cấu hình Smartbar</string>
+    <string name="smartbar_config_restore_error_toast">Lỗi khôi phục cấu hình Smartbar</string>
     <string name="navbar_buttons_alpha_title">Độ trong suốt phím</string>
-    <string name="smartbar_longpress_delay_title">Độ trễ khi nhấn giữ nút</string>
+    <string name="smartbar_longpress_delay_title">Nút độ trễ khi nhấn và giữ</string>
     <string name="smartbar_longpress_delay_summary">Đặt bao lâu hệ thống sẽ chờ đợi trước khi kích hoạt một hành động nhấn và giữ</string>
     <string name="smartbar_longpress_delay_default">Độ trễ mặc định (nhanh)</string>
     <string name="smartbar_longpress_delay_normal">Độ trễ bình thường</string>
