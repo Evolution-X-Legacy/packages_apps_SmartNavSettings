@@ -218,6 +218,8 @@
     <string name="use_bottom_gesture_summary">Використовувати жест проведення вгору для прокручування</string>
     <string name="gesture_swipe_length_title">Висота спрацювання тригеру свайпу</string>
     <string name="gesture_swipe_length_summary">Висота від низу до тригеру свайпу</string>
+    <string name="gesture_swipe_start_title">Swipe trigger start height</string>
+    <string name="gesture_swipe_start_summary">Minimum height from bottom to start triggering gesture</string>
     <string name="gesture_action_timeout_title">Час очікування тригеру свайпу</string>
     <string name="gesture_action_timeout_summary">Час очікування до початку дії жесту</string>
     <string name="bottom_gestures_feedback_duration_title">Тривалість вібрації</string>
