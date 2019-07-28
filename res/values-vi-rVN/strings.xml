@@ -34,7 +34,7 @@
     <string name="select_custom_app_title">Chọn ứng dụng tùy chỉnh</string>
     <string name="select_custom_activity_title">Chọn hoạt động</string>
     <string name="profile_applist_title">Ứng dụng</string>
-    <string name="default_string">Kho</string>
+    <string name="default_string">Gốc</string>
     <string name="default_settings">Cài đặt gốc</string>
     <string name="default_settings_summary">Thanh điều hướng AOSP gốc</string>
     <!-- Actions dialog and default task values set in ActionPreference xml-->
@@ -166,7 +166,7 @@
     <string name="positive_done">Hoàn tất</string>
     <!-- SmartBar -->
     <string name="smartbar_category">Thanh thông minh</string>
-    <string name="smartbar_settings_title">Cài đặt Smartbar</string>
+    <string name="smartbar_settings_title">Cài đặt Thanh thông minh</string>
     <string name="smartbar_settings_summary">Tùy biến thanh điều hướng hoàn toàn</string>
     <string name="smartbar_editor_title">Bắt đầu chế độ chỉnh sửa</string>
     <string name="smartbar_editor_summary">Mở trình chỉnh sửa nút thanh thông minh</string>
@@ -184,7 +184,7 @@
     <string name="smartbar_button_animation_pixel_home">Pixel (chỉ nút Home)</string>
     <string name="smartbar_button_animation_pixel_home_ripple">Pixel (chỉ nút Home) và Gợn sóng</string>
     <string name="smartbar_factory_reset_title">Thiết lập lại về cài đặt gốc</string>
-    <string name="smartbar_factory_reset_confirm">Bạn có chắc chắn muốn thiết lập lại Smartbar về cài đặt gốc?</string>
+    <string name="smartbar_factory_reset_confirm">Bạn có chắc chắn muốn thiết lập lại Thanh thông minh về cài đặt gốc?</string>
     <string name="smartbar_ime_action_title">Phương thức nhập và các hành động phương tiện</string>
     <string name="smartbar_ime_action_summary">Cài đặt phím nào hiện khi bàn phím trên màn hình đang hiển thị hoặc âm nhạc đang phát</string>
     <string name="smartbar_ime_action_none">Không</string>
@@ -193,13 +193,13 @@
     <string name="smartbar_ime_action_dynamic">Mũi tên nhập liệu/phương tiện</string>
     <string name="smartbar_backup_current_config_title">Lưu cấu hình</string>
     <string name="smartbar_restore_config_title">Khôi phục lại cấu hình</string>
-    <string name="smartbar_config_name_edit_dialog_title">Tên cấu hình Smartbar</string>
+    <string name="smartbar_config_name_edit_dialog_title">Tên cấu hình Thanh thông minh</string>
     <string name="smartbar_config_name_edit_dialog_message">Nhập tên hoặc để trống</string>
-    <string name="smartbar_config_dialog_title">Cấu hình Smartbar</string>
-    <string name="smartbar_config_backup_success_toast">Cấu hình Smartbar đã lưu thành công</string>
-    <string name="smartbar_config_restore_success_toast">Cấu hình Smartbar đã khôi phục thành công</string>
-    <string name="smartbar_config_backup_error_toast">Lỗi lưu cấu hình Smartbar</string>
-    <string name="smartbar_config_restore_error_toast">Lỗi khôi phục cấu hình Smartbar</string>
+    <string name="smartbar_config_dialog_title">Cấu hình Thanh thông minh</string>
+    <string name="smartbar_config_backup_success_toast">Đã lưu thành công cấu hình Thanh thông minh</string>
+    <string name="smartbar_config_restore_success_toast">Đã khôi phục thành công cấu hình Thanh thông minh</string>
+    <string name="smartbar_config_backup_error_toast">Lỗi lưu cấu hình Thanh thông minh</string>
+    <string name="smartbar_config_restore_error_toast">Lỗi khôi phục cấu hình Thanh thông minh</string>
     <string name="navbar_buttons_alpha_title">Độ trong suốt phím</string>
     <string name="smartbar_longpress_delay_title">Nút độ trễ khi nhấn và giữ</string>
     <string name="smartbar_longpress_delay_summary">Đặt bao lâu hệ thống sẽ chờ đợi trước khi kích hoạt một hành động nhấn và giữ</string>
@@ -218,6 +218,8 @@
     <string name="use_bottom_gesture_summary">Sử dụng cử chỉ vuốt lên phía dưới để điều hướng</string>
     <string name="gesture_swipe_length_title">Độ cao khu vực vuốt</string>
     <string name="gesture_swipe_length_summary">Độ cao từ dưới lên để kích hoạt vuốt</string>
+    <string name="gesture_swipe_start_title">Swipe trigger start height</string>
+    <string name="gesture_swipe_start_summary">Minimum height from bottom to start triggering gesture</string>
     <string name="gesture_action_timeout_title">Thời gian kích hoạt vuốt</string>
     <string name="gesture_action_timeout_summary">Thời gian trước khi hành động cử chỉ được bắt đầu</string>
     <string name="bottom_gestures_feedback_duration_title">Thời gian chờ phản hồi</string>
