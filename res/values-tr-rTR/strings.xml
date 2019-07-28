@@ -218,6 +218,8 @@
     <string name="use_bottom_gesture_summary">Gezinme için yukarı kaydırma hareketleri kullan</string>
     <string name="gesture_swipe_length_title">Kaydırma alanı yüksekliği</string>
     <string name="gesture_swipe_length_summary">Kaydırmayı etkinleştirmek için alt yükseklik</string>
+    <string name="gesture_swipe_start_title">Swipe trigger start height</string>
+    <string name="gesture_swipe_start_summary">Minimum height from bottom to start triggering gesture</string>
     <string name="gesture_action_timeout_title">Kaydırma alanı zamanı aşımı</string>
     <string name="gesture_action_timeout_summary">Hareket eylemi başlamadan önce zaman aşımı</string>
     <string name="bottom_gestures_feedback_duration_title">Dokunumsal geribildirim süresi</string>
