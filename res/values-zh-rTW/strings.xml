@@ -218,6 +218,8 @@
     <string name="use_bottom_gesture_summary">從底部向上滑動進行導覽</string>
     <string name="gesture_swipe_length_title">滑動區域高度</string>
     <string name="gesture_swipe_length_summary">觸發手勢操作所需的滑動高度</string>
+    <string name="gesture_swipe_start_title">Swipe trigger start height</string>
+    <string name="gesture_swipe_start_summary">Minimum height from bottom to start triggering gesture</string>
     <string name="gesture_action_timeout_title">滑動觸發延遲</string>
     <string name="gesture_action_timeout_summary">觸發手勢操作所需的延遲</string>
     <string name="bottom_gestures_feedback_duration_title">震動強度</string>
