@@ -218,8 +218,8 @@
     <string name="use_bottom_gesture_summary">使用从屏幕底部向上滑动的手势进行导航操作</string>
     <string name="gesture_swipe_length_title">滑动触发区高度</string>
     <string name="gesture_swipe_length_summary">触发手势操作所需的滑动高度</string>
-    <string name="gesture_swipe_start_title">Swipe trigger start height</string>
-    <string name="gesture_swipe_start_summary">Minimum height from bottom to start triggering gesture</string>
+    <string name="gesture_swipe_start_title">滑动触发区位置</string>
+    <string name="gesture_swipe_start_summary">滑动触发区高度</string>
     <string name="gesture_action_timeout_title">滑动触发延迟</string>
     <string name="gesture_action_timeout_summary">触发手势操作所需的时长</string>
     <string name="bottom_gestures_feedback_duration_title">触觉反馈持续时间</string>
