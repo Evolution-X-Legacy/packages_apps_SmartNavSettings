@@ -220,8 +220,8 @@ Contexto | Contexto de solicitação</string>
     <string name="use_bottom_gesture_summary">Usar gestos de deslize para cima para a navegação</string>
     <string name="gesture_swipe_length_title">Altura do gatilho de deslize</string>
     <string name="gesture_swipe_length_summary">Altura de baixo para acionar deslize</string>
-    <string name="gesture_swipe_start_title">Swipe trigger start height</string>
-    <string name="gesture_swipe_start_summary">Minimum height from bottom to start triggering gesture</string>
+    <string name="gesture_swipe_start_title">Altura inicial do gatilho</string>
+    <string name="gesture_swipe_start_summary">Altura mínima de baixo para iniciar o início de ativação do gesto</string>
     <string name="gesture_action_timeout_title">Tempo limite do gatilho de deslize</string>
     <string name="gesture_action_timeout_summary">Tempo limite antes que a ação de gesto seja iniciada</string>
     <string name="bottom_gestures_feedback_duration_title">Duração do retorno tátil</string>
