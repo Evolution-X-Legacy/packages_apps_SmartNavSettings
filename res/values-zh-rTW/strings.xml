@@ -76,7 +76,7 @@
     <string name="down_swipe_title">向下滑動</string>
     <string name="long_swipe_reset">重設</string>
     <string name="fling_advanced">進階設定</string>
-    <string name="fling_long_swipe_title">Long swipe thresholds</string>
+    <string name="fling_long_swipe_title">輕觸並按住數值</string>
     <string name="fling_long_swipe_summary">Fine tune long swipe thresholds based on a percentage of Fling interface width or height</string>
     <string name="fling_trails_enable_title">啟用手勢軌跡</string>
     <string name="fling_trails_enable_summary">滑動手勢時顯示軌跡</string>
