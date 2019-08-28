@@ -123,7 +123,7 @@
     <string name="fling_pulse_color">Màu sóng nhạc</string>
     <string name="fling_pulse_color_summary">Được sử dụng màu tự động</string>
     <string name="eos_fling_lavalamp_title">Bật đèn dung nham</string>
-    <string name="eos_fling_lavalamp_summary">Các hoạt ảnh Pulse pha trộn kiểu màu đèn dung nham sống động</string>
+    <string name="eos_fling_lavalamp_summary">Các hoạt ảnh sóng nhạc pha trộn kiểu màu đèn dung nham sống động</string>
     <string name="pulse_advanced_category">Nâng cao</string>
     <string name="pulse_legacy_mode_advanced_category">Cài đặt chế độ khối mờ dần</string>
     <string name="pulse_custom_fudge_factor">Mức độ mạnh</string>
@@ -201,7 +201,7 @@
     <string name="smartbar_config_backup_error_toast">Lỗi lưu cấu hình Thanh thông minh</string>
     <string name="smartbar_config_restore_error_toast">Lỗi khôi phục cấu hình Thanh thông minh</string>
     <string name="navbar_buttons_alpha_title">Độ trong suốt phím</string>
-    <string name="smartbar_longpress_delay_title">Nút độ trễ khi nhấn và giữ</string>
+    <string name="smartbar_longpress_delay_title">Độ trễ khi nhấn giữ nút</string>
     <string name="smartbar_longpress_delay_summary">Đặt bao lâu hệ thống sẽ chờ đợi trước khi kích hoạt một hành động nhấn và giữ</string>
     <string name="smartbar_longpress_delay_default">Độ trễ mặc định (nhanh)</string>
     <string name="smartbar_longpress_delay_normal">Độ trễ bình thường</string>
